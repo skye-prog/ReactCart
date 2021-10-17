@@ -1,1 +1,3 @@
 # ReactCart
+
+This is a cart page using react and redux, more updates are coming soon .....
